@@ -11,3 +11,5 @@ echo "O resultado da váriável é: $i";
 
 
 oiiiiiii
+
+------
